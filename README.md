@@ -11,10 +11,13 @@ This is an early version of this layout more fleshed out and advanced will get r
 
 With root access replace
 >us
+
 in
 >/usr/share/X11/xkb/symbols
+
 and
 >base.lst base.xml evdev.lst and evdev.xml
+
 in
 >/usr/share/X11/xkb/rules
 
