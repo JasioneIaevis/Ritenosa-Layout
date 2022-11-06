@@ -6,7 +6,7 @@ This is an early version of this layout more fleshed out and advanced will get r
 
 !https://imgur.com/a/N8m7Km3
 
-##Install
+>__Install
 
 
 With root access replace
