@@ -4,7 +4,7 @@ I created this layout out of dislike for some of the key placement on Dvorak and
 If you know Dvorak then it should be pretty easy to get used to.
 This is an early version of this layout more fleshed out and advanced will get released at some point.
 
-!(https://imgur.com/a/N8m7Km3)
+!https://imgur.com/a/N8m7Km3
 
 ##Install
 
